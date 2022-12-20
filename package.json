@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-strictest-coral",
-  "version": "0.0.3",
+  "version": "0.0.1",
   "description": "strictest-coral's eslint rules",
   "author": "Almog Vagman Ciprut",
   "main": "index.js",
@@ -8,6 +8,9 @@
     "release": "standard-version",
     "commit": "commit",
     "prepare": "husky install"
+  },
+  "repository": {
+    "url": "https://github.com/strictest-coral/eslint-config-strictest-coral"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
