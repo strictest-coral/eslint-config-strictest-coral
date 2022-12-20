@@ -25,6 +25,7 @@ module.exports = {
       'unicorn/prefer-top-level-await': 'off',
       'unicorn/no-array-for-each': 'off',
       'unicorn/no-object-as-default-parameter': 'off',
+      '@typescript-eslint/no-misused-promises': 'error',
       'prettier/prettier': [
         'error',
         {
@@ -35,6 +36,5 @@ module.exports = {
           "endOfLine": "auto"
         },
       ],
-      '@typescript-eslint/no-misused-promises': 'error',
     },
   };
