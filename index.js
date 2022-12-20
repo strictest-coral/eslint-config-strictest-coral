@@ -26,6 +26,12 @@ module.exports = {
       'unicorn/no-array-for-each': 'off',
       'unicorn/no-object-as-default-parameter': 'off',
       '@typescript-eslint/no-misused-promises': 'error',
+      'max-depth': ['error', 2],
+      'max-lines': ['error', 500],
+      'max-lines-per-function': ['error', 30],
+      'max-statements': ['error', 10],
+      'complexity': ['error', 10],
+      'max-nested-callbacks': ['error', 3],
       'prettier/prettier': [
         'error',
         {
