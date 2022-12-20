@@ -1,7 +1,7 @@
 {
-  "name": "eslint-config-avc",
+  "name": "eslint-config-strictest-coral",
   "version": "0.0.0",
-  "description": "Almog Vagman Ciprut's eslint rules",
+  "description": "strictest-coral's eslint rules",
   "author": "Almog Vagman Ciprut",
   "main": "index.js",
   "scripts": {
