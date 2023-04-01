@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-strictest-coral",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "strictest-coral's eslint rules",
   "author": "Almog Vagman Ciprut",
   "main": "index.js",
